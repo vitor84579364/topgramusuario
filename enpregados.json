@@ -1,6 +1,5 @@
 [
     {
-        "id": 1,
         "nome": "João vitor",
         "registros_horas": [
              { "data": "2024-07-15", "entrada_manha": "07:30", "saida_manha": "11:30", "entrada_tarde": "1:30", "saida_tarde": "5:30" },
@@ -11,7 +10,7 @@
         ]
     },
     {
-        "id": 2,
+  
         "nome": "janio santos",
         "registros_horas": [
              { "data": "2024-07-15", "entrada_manha": "07:30", "saida_manha": "11:30", "entrada_tarde": "1:30", "saida_tarde": "5:30" },
