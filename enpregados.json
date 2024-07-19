@@ -1,7 +1,6 @@
 [
     {
         "id": 1,
-        "nome": "João Silva",
         "nome": "João vitor silva da mota",
         "registros_horas": [
             { "data": "2024-07-15", "entrada_manha": "07:00", "saida_manha": "12:00", "entrada_tarde": "13:30", "saida_tarde": "18:00" },
